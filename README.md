@@ -22,5 +22,4 @@ Evaluating and interpreting caption prediction forhistopathology images
 ## Visualization
 
 ![](visualization.png)
-Visualization of the PathCap method on four test slides from four different tissues.The last column shows some examples of attention weights when the model generates the corresponding tokens.  White/bright indicates more attention weight,black/dark indicates less attention weight.
-
+Visualization of the PathCap method on four test slides from four different tissues.The last column shows some examples of attention weights when the model generates the corresponding tokens.  White/bright indicates more attention weight,black/dark indicates less attention weight. We observe the model attends at word-level to both the inner parts of the tissue or texture and also the boundaries, depending on the caption context.
