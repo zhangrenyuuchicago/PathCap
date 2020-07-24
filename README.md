@@ -2,7 +2,7 @@
 
 This is the repo for our paper
 
-Evaluating and interpreting caption prediction forhistopathology images
+Evaluating and interpreting caption prediction for histopathology images
 
 - AE_triplet_loss/ contains codes for training autoencoder with triplet loss.
 - att_thumbnail_tiles/ is model PathCap. It uses the thumbnail to init the LSTM and sampled tiles, one from each cluster, for each step of LSTM. Some codes (the decoder part) are borrowed from https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning. The codes for generating the visualization figs with attention weights are also inside this category.
