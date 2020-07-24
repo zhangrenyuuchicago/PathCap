@@ -1,0 +1,7 @@
+[[0.3311987519264221, 0.330322802066803, 0.3384784162044525]]
+[[0.33131974935531616, 0.3394867479801178, 0.3291935324668884]]
+[[0.33035027980804443, 0.3389941155910492, 0.330655574798584]]
+hyposthese:
+<unk> <unk>
+reference:
+~9x8mm . dense areas <unk> pneumonitis <unk> . foreign <unk> giant cells , and <unk> structures . probable aspiration pneumonia .

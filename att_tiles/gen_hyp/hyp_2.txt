@@ -1,0 +1,984 @@
+2 pieces , minimal ischemic changes
+2 pieces , no abnormalities
+2 pieces , minimal fascia/vascular elements
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , <unk> & <unk> ;
+6 pieces , squamous mucosa up to ~0.5mm , ~30 % thickness
+4 pieces , no abnormalities
+2 pieces , minimal interstitial fat
+2 pieces , no abnormalities
+4 pieces , no abnormalities
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+6 pieces , mucosa well preserved , up to ~1mm , 15-20 % thickness
+6 pieces , squamous mucosa is <unk> microns , <unk> % thickness
+2 pieces , no abnormalities
+2 pieces , gynecomastoid stromal and ductal ( rep delineated ) hyperplasia
+2 pieces , minimal fascia/vascular elements
+2 pieces , fibroadipose tissue , no ductal elements noted
+2 pieces , ~10 % <unk> tissue , rep delineated
+2 pieces , ~10 % interstitial fat , rep delineated
+6 pieces , all muscularis , good specimens
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+2 pieces , one piece is ~20 % fat , second is ~30 % fibrous tissue
+6 pieces , mucosa well preserved , up to ~1mm , 15-20 % thickness
+6 pieces , all muscularis , good specimens
+6 pieces , mucosa well preserved , up to ~1mm , <unk> % thickness
+2 pieces , <unk> & <unk> ; moderate congestion
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces ; 1 piece has 40 % fibrous stroma
+2 pieces , no abnormalities
+6 pieces , minimal atherosis
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces ; glands autolyzed , stroma intact
+2 pieces , <unk> & <unk> ; scattered eosinophilic foci in <unk> and <unk> tissue
+2 pieces , no abnormalities
+2 pieces , no abnormalities
+2 pieces ; some fibrosis and nodularity
+2 pieces , all cortex , well preserved , minimal fat
+6 pieces , all muscularis , good specimens
+2 pieces , no abnormalities
+2 pieces , no abnormalities
+2 pieces , <unk> & <unk> ;
+2 pieces , no abnormalities
+2 pieces , no abnormalities
+2 pieces , no abnormalities
+2 pieces , good clean specimens , trace adherent fat , delineated
+6 pieces ; well trimmed ; 5 % dermal fat
+2 pieces , mild steatosis , moderate autolysis
+2 pieces , mild congestion
+6 pieces , up to <unk> ; mucosa well preserved , up to ~30 % thickness
+2 pieces , no abnormalities
+2 pieces , no atherosis , clean specimens
+6 pieces , up to <unk> ; squamous mucosa is ~10-15 % thickness
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , 5x3 & 5x3mm ; up to <unk> mm external adipose
+6 pieces , up to <unk> ;
+2 pieces , mild steatosis , moderate autolysis
+2 pieces , ~10 % fascia/vascular elements , rep delineated
+2 pieces , spermatogenesis is present
+2 pieces , no adherent fat ; good specimens
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , minimal interstitial fat
+2 pieces , moderate congestion
+6 pieces , up to <unk> ; mucosa well preserved , up to ~30 % thickness
+2 pieces , <unk> & <unk> ; scattered <unk> cell <unk>
+6 pieces , all muscularis , good specimens
+2 pieces , <unk> & <unk> ; spermatogenesis is present
+6 pieces , squamous mucosa is <unk> % thickness , <unk> microns
+2 pieces , <unk> & <unk> ; <unk> congestion
+6 pieces , all muscularis , good specimens
+6 pieces , squamous mucosa is <unk> , ~20-25 % thickness
+6 pieces ; well trimmed ; 5 % dermal fat
+2 pieces , ~10 % interstitial fat , rep delineated
+4 pieces , no abnormalities
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , <unk> & <unk> ; mild congestion
+2 pieces , spermatogenesis is present
+6 pieces , up to <unk> ; squamous mucosa is ~10-15 % thickness
+2 pieces , spermatogenesis is present
+6 pieces , all muscularis , good specimens
+2 pieces , minimal ischemic changes
+2 pieces , fibroadipose tissue , no ductal elements noted
+6 pieces , up to <unk> ; all with mucosa , no muscularis propria
+6 pieces , all muscularis , good specimens
+2 pieces , fibroadipose tissue , no ductal elements noted
+6 pieces , all muscularis , good specimens
+2 pieces , <unk> & <unk> ; <unk> <unk> <unk>
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , minimal atherosis
+6 pieces , all muscularis , good specimens
+2 pieces , no abnormalities
+2 pieces , minimal interstitial fibrosis , <unk> ischemic changes
+2 pieces , no adherent fat , good specimens
+6 pieces , up to <unk> ; squamous mucosa is ~10-15 % thickness
+6 pieces , squamous mucosa up to ~0.5mm , ~30 % thickness
+6 pieces , minimal atherosis
+2 pieces , minimal ischemic changes
+2 pieces , minimal interstitial fat
+2 pieces , gynecomastoid stromal and ductal ( rep delineated ) hyperplasia
+2 pieces , gynecomastoid stromal and ductal ( rep delineated ) hyperplasia
+6 pieces , all muscularis , good specimens
+2 pieces , ~10 % <unk> tissue , rep delineated
+2 pieces , all cortex , well preserved , minimal fat
+6 pieces , all muscularis , good specimens
+2 pieces , <unk> & <unk> ;
+2 pieces , mild congestion
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , well preserved , lymphoid aggregates are ~30 % of tissue , rep delineated
+2 pieces , no abnormalities
+2 pieces , <unk> & <unk> ; all cortex , well preserved
+6 pieces , up to <unk> ; all with good mucosa
+6 pieces , all muscularis , good specimens
+2 pieces , fibroadipose tissue , no ductal elements noted
+2 pieces , spermatogenesis is present
+2 pieces , minimal interstitial fibrosis , <unk> ischemic changes
+2 pieces , <unk> & <unk> ; moderate congestion
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+6 pieces , all muscularis , good specimens
+2 pieces , no abnormalities
+6 pieces , minimal atherosis
+2 pieces , <unk> & <unk> ;
+6 pieces , squamous mucosa up to ~0.5mm , ~30 % thickness
+6 pieces , all muscularis , good specimens
+6 pieces , up to <unk> ; all muscularis , good specimens
+6 pieces , mucosa up to ~1mm , <unk> % thickness , moderately advanced autolysis
+4 pieces , no abnormalities
+2 pieces , no abnormalities
+2 pieces , spermatogenesis present
+2 pieces , <unk> & <unk> ; well trimmed , no lesions
+2 pieces , mild steatosis , <unk>
+2 pieces , minimal fascia/vascular elements
+6 pieces , all muscularis , good specimens
+6 pieces , all muscularis , good specimens
+6 pieces , minimal atherosis
+2 pieces , no abnormalities
+2 pieces , no abnormalities
+2 pieces , mild congestion
+2 pieces , clean specimens , minimal adherent fat
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , moderate congestion
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , spermatogenesis is present
+2 pieces , no abnormalities
+6 pieces , mucosa is <unk> % thickness , moderately autolyzed
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , no adherent fat , good clean specimens
+2 pieces , <unk> & <unk> ; spermatogenesis present
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , all cortex , well preserved , minimal fat
+1 piece ; adenohypophysis and neurohypophysis
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , minimal interstitial fibrosis , <unk> ischemic changes
+6 pieces ; well trimmed ; 5 % dermal fat
+2 pieces , fibroadipose tissue , no ductal elements noted
+2 pieces , <unk> & <unk> ;
+2 pieces , mild congestion
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , <unk> & <unk> ; good clean specimens
+2 pieces , fibroadipose tissue , no ductal elements noted
+2 pieces , <unk> & <unk> ; <unk> <unk> , <unk> <unk> , <unk> <unk>
+2 pieces , <unk> & <unk> ; patchy hemorrhagic pneumonitis , <unk> % of parenchyma , <unk> areas delineated
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+4 pieces , no abnormalities
+2 pieces , no abnormalities
+6 pieces , minimal atherosis
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , gynecomastoid stromal and ductal ( rep delineated ) hyperplasia
+2 pieces , no atherosis , clean specimens
+2 pieces , <unk> & <unk> ; multiple <unk> cysts
+2 pieces , <unk> & <unk> ; spermatogenesis is present
+2 pieces , no adherent fat , good clean specimens
+2 pieces , <unk> & <unk> ; scattered eosinophilic foci in <unk> and <unk> tissue , <unk> <unk> <unk> macrophages <unk> <unk> <unk>
+4 pieces , no abnormalities
+2 pieces , minimal interstitial fibrosis , <unk> ischemic changes
+2 pieces , <unk> & <unk> ;
+2 pieces , minimal interstitial fat
+2 pieces , <unk> & <unk> ; scattered eosinophilic foci in <unk> and <unk> tissue , <unk> <unk> <unk> <unk> <unk> <unk>
+2 pieces , <unk> & <unk> ; multiple <unk> cysts
+6 pieces , squamous mucosa is <unk> , ~20-25 % thickness
+6 pieces , squamous mucosa is ~0.3mm , ~10-15 % thickness
+2 pieces , 5x3 & 5x3mm ; up to <unk> mm external adipose
+2 pieces , <unk> & <unk> mm ; cortex and medulla
+2 pieces , ~10 % interstitial fat , rep delineated
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , no atherosis , clean specimens
+2 pieces , no abnormalities
+6 pieces , up to <unk> ; mucosa well preserved , up to ~30 % thickness
+6 pieces , up to <unk> ; mucosa well preserved , up to ~30 % thickness
+4 pieces , no abnormalities
+2 pieces , no abnormalities
+6 pieces , minimal atherosis
+2 pieces , <unk> & 7x6mm ; spermatogenesis
+6 pieces , mucosa up to ~1mm , ~30-40 % thickness
+4 pieces , no abnormalities
+2 pieces , no adherent fat , good clean specimens
+6 pieces , minimal atherosis
+2 pieces , minimal interstitial fibrosis
+6 pieces , up to <unk> ; all with mucosa , 2 with small amounts of muscularis propria
+2 pieces , no abnormalities
+6 pieces , all muscularis , good specimens
+1 piece ; adenohypophysis and neurohypophysis
+6 pieces ; well dissected muscularis
+6 pieces , mucosa up to ~1mm , <unk> % thickness , moderately advanced autolysis
+2 pieces , <unk> & <unk> ; patchy emphysema
+6 pieces , mucosa up to ~1mm , <unk> % thickness , moderately advanced autolysis
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , no adherent fat , good clean specimens
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , <unk> & <unk> ; moderate congestion
+2 pieces , moderate congestion
+2 pieces , no abnormalities
+2 pieces , no abnormalities
+2 pieces ; glands autolyzed , stroma intact
+6 pieces , mucosa up to ~1mm , <unk> % thickness
+2 pieces , spermatogenesis is present
+2 pieces , <unk> & <unk> ; 1 with 20 % internal adipose
+6 pieces , squamous mucosa is ~0.2mm , ~10-15 % thickness
+4 pieces , no abnormalities
+6 pieces , mucosa up to ~1mm , ~30-40 % thickness
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , no atherosis , clean specimens
+2 pieces , clean specimens , no adherent fat
+2 pieces , <unk> & <unk> ; patchy bronchopneumonia
+2 pieces , mild steatosis , moderate autolysis
+2 pieces , minimal fascia/vascular elements
+6 pieces , up to <unk> ; all muscularis , good specimens
+6 pieces , up to <unk> ; all muscularis , good specimens
+2 pieces , good clean specimens , trace adherent fat , delineated
+6 pieces , all muscularis , good specimens
+6 pieces , all muscularis , good specimens
+6 pieces , mucosa is <unk> % thickness , <unk> , advanced autolysis
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , ~10 % fascia/vascular elements , rep delineated
+6 pieces , mucosa well preserved , up to ~1mm , ~30-40 % thickness
+6 pieces , all muscularis , good specimens
+6 pieces , squamous mucosa is ~0.5mm , ~20-25 % thickness
+2 pieces , good clean specimens , trace adherent fat , delineated
+2 pieces , spermatogenesis is present
+2 pieces ; myometrium only in this section
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , minimal interstitial fat
+2 pieces , good clean specimens , trace adherent fat , delineated
+6 pieces , mucosa well preserved , up to ~1mm , ~30-40 % thickness
+2 pieces , no abnormalities
+2 pieces , <unk> & <unk> ; 1 has 20 % adipose
+2 pieces , <unk> & <unk> ; less than ~5 % interstitial fat , good specimens
+2 pieces , <unk> & <unk> ; all cortex , moderately autolyzed
+2 pieces , all cortex , well preserved
+2 pieces , <unk> & <unk> ; patchy hemorrhagic pneumonitis , <unk> % of aliquot
+2 pieces , well preserved , islets well visualized , rep encircled . minimal fat ; good specimen
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , no adherent fat , good clean specimens
+2 pieces , mild congestion
+2 pieces , no abnormalities
+2 pieces , well preserved , islets well visualized , rep encircled . minimal fat ; good specimen
+2 pieces , minimal interstitial fat
+2 pieces , minimal fascia/vascular elements
+2 pieces , minimal interstitial fat
+6 pieces , all muscularis , good specimens
+2 pieces , myometrium only
+2 pieces , no abnormalities
+2 pieces , fibroadipose tissue , no ductal elements noted
+2 pieces , gynecomastoid stromal and ductal ( rep delineated ) hyperplasia
+2 pieces , <unk> & <unk> ; discontinous rim of adherent fat up to ~0.5mm
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces ; extensive alveolar hemorrhage & hemorrhage
+2 pieces , <unk> & <unk> ; all cortex , well preserved
+6 pieces , up to <unk> ; mucosa well preserved , up to ~30 % thickness
+2 pieces , clean specimens
+2 pieces , no abnormalities
+2 pieces , mild congestion
+2 pieces , <unk> & <unk> ; 1 piece has 20 % adipose
+2 pieces , <unk> & <unk> ; scattered eosinophilic foci in <unk> and <unk> tissue , <unk> <unk> <unk> <unk> <unk> <unk>
+2 pieces , all cortex , well preserved , minimal fat
+2 pieces , <unk> & <unk> mm ; no inflammation
+6 pieces ; well dissected muscularis
+6 pieces , all muscularis , good specimens
+2 pieces , <unk> & <unk> ; all cortex , well preserved
+2 pieces , <unk> & <unk> ; patchy emphysema
+2 pieces , no abnormalities
+2 pieces , no adherent fat ; good specimens
+2 pieces , <unk> & <unk> ; <unk> congestion
+6 pieces , all muscularis , good specimens
+2 pieces , mild congestion
+2 pieces , ~10 % fascia/vascular elements , rep delineated
+2 pieces , fibroadipose tissue , no ductal elements noted
+6 pieces , minimal atherosis
+2 pieces , minimal ischemic changes
+2 pieces , <unk> & <unk> ; <unk> congestion
+2 pieces , no abnormalities
+2 pieces , minimal interstitial fat
+2 pieces , no abnormalities
+6 pieces , mucosa is <unk> % thickness , <unk> , moderately advanced autolysis
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , no abnormalities
+2 pieces , <unk> & <unk> ;
+2 pieces , glandular hyperplasia
+2 pieces , minimal ischemic changes
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+4 pieces , no abnormalities
+2 pieces , minimal fascia/vascular elements
+6 pieces , mucosa up to ~1mm , ~30-40 % thickness
+1 piece ; adenohypophysis and neurohypophysis
+6 pieces ; mucosa autolyzed , muscle intact
+2 pieces , well preserved , islets well visualized , rep encircled . minimal fat ; good specimen
+2 pieces , gynecomastoid stromal and ductal ( rep delineated ) hyperplasia
+2 pieces , minimal fascia/vascular elements
+6 pieces , all muscularis , good specimens
+4 pieces , no abnormalities
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , spermatogenesis is present
+2 pieces , <unk> & <unk> ; mild congestion
+6 pieces , all muscularis , good specimens
+2 pieces , <unk> & <unk> ; mild congestion
+2 pieces , fibroadipose tissue , no ductal elements noted
+2 pieces , mild congestion
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , well preserved mucosa up to ~1mm thick , <unk> % thickness
+6 pieces , all muscularis , good specimens
+2 pieces , good clean specimens , trace adherent fat , delineated
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , <unk> & <unk> ; patchy hemorrhagic pneumonitis , <unk> preserved , <unk>
+2 pieces , spermatogenesis is present
+2 pieces , no abnormalities
+2 pieces , <unk> congestion
+6 pieces , squamous mucosa up to ~0.5mm , ~30 % thickness
+2 pieces , fibroadipose tissue , no ductal elements noted
+2 pieces , <unk> & <unk> ;
+2 pieces , fibroadipose tissue , no ductal elements noted
+2 pieces , moderate congestion
+2 pieces , fibroadipose elements , no ductal elements noted
+6 pieces , minimal atherosis
+2 pieces , no adherent fat , good clean specimens
+6 pieces , all muscularis , good specimens
+2 pieces , minimal ischemic changes
+2 pieces , no abnormalities
+2 pieces , mild congestion
+2 pieces , fibroadipose tissue , no ductal elements noted
+2 pieces ; glands autolyzed , stroma intact
+2 pieces , <unk> & <unk> ; 1 with 60 % external adipose tissue
+2 pieces , <unk> & <unk> ; scattered eosinophilic foci in <unk> and <unk> tissue , <unk> <unk> <unk> <unk> <unk> <unk> in <unk> <unk>
+4 pieces , no abnormalities
+2 pieces , mild congestion
+6 pieces , up to <unk> ; mucosa well preserved , up to ~30 % thickness
+2 pieces , mild congestion
+6 pieces , minimal atherosis
+2 pieces , ~10 % interstitial fat , rep delineated
+4 pieces , no abnormalities
+2 pieces , ~10 % fascia/vascular elements , rep delineated
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , <unk> & <unk> ; 1 with 50 % external adipose tissue
+6 pieces , all muscularis , good specimens
+2 pieces , no atherosis , clean specimens
+6 pieces , mucosa is <unk> % thickness , <unk> , moderately advanced autolysis
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , <unk> & <unk> ; hypertrophic fibers ; 1 piece has <unk> % adipose
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , <unk> & <unk> ; <unk> congestion
+2 pieces , <unk> & <unk> ;
+2 pieces , fibroadipose tissue , no ductal elements noted
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , mild congestion
+2 pieces , mild steatosis , moderate autolysis
+6 pieces , squamous mucosa is ~0.2mm , ~10-15 % thickness
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , mucosa is <unk> % thickness , <unk> , ~20 % thickness
+2 pieces , no abnormalities
+2 pieces , <unk> & <unk> ; mild congestion
+2 pieces , no adherent fat , good specimens
+6 pieces , up to <unk> ; all have mucosa
+2 pieces , no adherent fat , good clean specimens
+6 pieces , mucosa up to ~1mm , ~30-40 % thickness
+2 pieces , both with rim of adherent fat up to ~0.5mm
+2 pieces , fibroadipose tissue , no ductal elements noted
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+2 pieces , minimal ischemic changes
+2 pieces , no abnormalities
+4 pieces , no abnormalities
+6 pieces , all muscularis , good specimens
+6 pieces , squamous mucosa is ~0.5mm , ~20-25 % thickness
+2 pieces ; patchy emphysema and fibrosis ; pulmonary edema & hemorrhage
+2 pieces , all cortex , well preserved , minimal fat
+2 pieces , <unk> & <unk> ; scattered eosinophilic foci in <unk> and <unk> tissue
+6 pieces , mucosa up to ~1mm , ~30-40 % thickness
+2 pieces , minimal ischemic changes
+2 pieces , good clean specimens , trace adherent fat , delineated
+2 pieces , <unk> & <unk> ; patchy hemorrhagic <unk> <unk> <unk> , rep areas delineated .
+2 pieces , no atherosis , clean specimens
+2 pieces , <unk> & <unk> ; scattered eosinophilic foci in <unk> and <unk> tissue , <unk> <unk> <unk> <unk> <unk> <unk> in <unk> <unk>
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+2 pieces , glandular hyperplastic pattern
+2 pieces , <unk> & <unk> ; scattered eosinophilic foci in <unk> and <unk> tissue , <unk> <unk> <unk> <unk> <unk> <unk>
+6 pieces , mucosa up to ~1mm , <unk> % thickness
+6 pieces , up to <unk> ; all muscularis , good specimens
+2 pieces , minimal ischemic changes
+2 pieces , no abnormalities
+6 pieces , up to <unk> ; squamous mucosa is ~10-15 % thickness
+6 pieces , mucosa up to ~1mm , <unk> % thickness
+6 pieces , all muscularis , good specimens
+2 pieces , <unk> & <unk> ; patchy bronchopneumonia
+6 pieces , all muscularis , good specimens
+2 pieces , fibroadipose tissue , no ductal elements noted
+2 pieces , <unk> & <unk> ; moderate congestion
+6 pieces , all muscularis , good specimens
+2 pieces , <unk> & <unk> ; mild congestion
+2 pieces , minimal interstitial fibrosis , <unk> ischemic changes
+2 pieces , no significant ischemic changes
+2 pieces , <unk> & <unk> ; moderate congestion
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , <unk> & <unk> ; less than ~5 % interstitial fat , good specimens
+2 pieces , <unk> & <unk> mm ; no extraneous adipose
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , spermatogenesis is present
+1 piece ; adenohypophysis and neurohypophysis
+6 pieces , all muscularis , good specimens
+4 pieces , no abnormalities
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , up to <unk> ; all with mucosa , no muscularis propria
+6 pieces , all muscularis , good specimens
+2 pieces , moderate congestion
+6 pieces , squamous mucosa is ~0.2mm , ~10-15 % thickness . submucosal mucus glands present , rep delineated
+6 pieces , squamous mucosa is ~0.5mm , ~20-25 % thickness
+2 pieces , minimal interstitial fat
+2 pieces , no atherosis , clean specimens
+2 pieces , no abnormalities
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , all muscularis , good specimens
+2 pieces , <unk> & <unk> mm ; cortex and medulla
+6 pieces , mucosa well preserved , up to ~1mm , ~30-40 % thickness
+6 pieces , squamous mucosa up to ~0.5mm , ~30 % thickness
+2 pieces , gynecomastoid stromal and ductal ( rep delineated ) hyperplasia
+6 pieces , up to <unk> ; all muscularis , good specimens
+6 pieces , up to <unk> ; mucosa well preserved , up to ~30 % thickness
+2 pieces , minimal adherent fat , good specimens
+2 pieces , <unk> & <unk> ; no significant atherosis
+2 pieces , no abnormalities
+2 pieces , spermatogenesis is present
+2 pieces , no abnormalities
+2 pieces , mild steatosis , moderate autolysis
+2 pieces , <unk> & <unk> ; all cortex , well preserved
+6 pieces , squamous mucosa is ~0.5mm , ~20-25 % thickness
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , no abnormalities
+6 pieces , all muscularis , good specimens
+2 pieces , mild steatosis , moderate autolysis
+6 pieces , all muscularis , good specimens
+2 pieces , no abnormalities
+2 pieces , no abnormalities
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , one piece is ~20 % fat , second is ~30 % fibrous tissue
+2 pieces , minimal fascia/vascular elements
+2 pieces ; moderate central congestion
+2 pieces , <unk> & <unk> ; moderate congestion
+6 pieces , mucosa up to ~1mm , ~30-40 % thickness
+2 pieces , minimal ischemic changes
+6 pieces , all muscularis , good specimens
+2 pieces , no adherent fat , good clean specimens
+2 pieces , no abnormalities
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , no adherent fat , good clean specimens
+2 pieces , clean specimens
+2 pieces , ~10 % interstitial fat , rep delineated
+6 pieces , all muscularis , good specimens
+2 pieces , clean specimens , minimal adherent fat
+2 pieces , <unk> & <unk> ; no significant ischemic changes
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+6 pieces , mucosa up to ~1mm , ~30-40 % thickness , moderately advanced autolysis
+2 pieces , ~10 % <unk> tissue , rep delineated
+6 pieces , mucosa up to ~1mm , <unk> % thickness
+2 pieces , one is predominantly fatty , second is ~30 % fibrous tissue , few ductal/lobular elements , delineated
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , mucosa up to ~1mm , <unk> % thickness
+4 pieces , no abnormalities
+2 pieces , mild congestion
+4 pieces , no abnormalities
+2 pieces , minimal fascia/vascular elements
+6 pieces , minimal atherosis
+2 pieces , minimal interstitial fibrosis , <unk> ischemic changes
+2 pieces , all cortex , well preserved , minimal fat
+2 pieces , <unk> & <unk> ; <unk> congestion
+2 pieces , no abnormalities
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , minimal atherosis
+2 pieces , ~10 % fascia/vascular elements , rep delineated
+6 pieces , squamous mucosa up to ~0.5mm , ~30 % thickness
+2 pieces , <unk> & <unk> ;
+2 pieces , <unk> & <unk> ; 1 piece has 40 % adipose and other with 10 % internal adipose
+6 pieces , minimal atherosis
+2 pieces , <unk> & <unk> ; spermatogenesis present
+2 pieces , mild congestion
+6 pieces , up to <unk> ;
+6 pieces , all muscularis , good specimens
+4 pieces , no abnormalities
+2 pieces , <unk> & <unk> ; 1 has 20 % adipose
+2 pieces , minimal fascia/vascular elements
+6 pieces ; well trimmed ; 5 % dermal fat
+2 pieces , no abnormalities
+2 pieces , no abnormalities
+2 pieces , <unk> & <unk> ; patchy bronchopneumonia
+2 pieces , <unk> & <unk> ; scattered eosinophilic foci in <unk> and <unk> <unk>
+2 pieces , <unk> & <unk> ; patchy fibrosis and <unk> ; heart failure cells
+6 pieces , all muscularis , good specimens
+6 pieces , all muscularis , good specimens
+6 pieces , up to <unk> ;
+4 pieces , no abnormalities
+2 pieces , <unk> & <unk> ; scattered eosinophilic foci in <unk> and <unk> tissue , <unk> <unk> <unk> <unk> <unk> <unk> in <unk> <unk>
+2 pieces , 3x2 & <unk> ; well trimmed , no lesions
+2 pieces , minimal interstitial fibrosis , <unk> ischemic changes
+6 pieces , mucosa well preserved , up to ~1mm , ~30-40 % thickness
+2 pieces , no abnormalities
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , minimal interstitial fibrosis , <unk> ischemic changes
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+4 pieces , no abnormalities
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , no abnormalities
+2 pieces , mild steatosis , moderate autolysis
+2 pieces , <unk> & 7x6mm ; spermatogenesis
+6 pieces , squamous mucosa is ~0.2mm , ~10-15 % thickness
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , one piece is ~20 % fat , second is ~30 % fibrous tissue
+2 pieces , <unk> & <unk> ; moderate congestion
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , <unk> & <unk> ; all cortex , well-preserved
+2 pieces , all cortex , well preserved
+6 pieces ; well dissected muscularis
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+6 pieces , up to <unk> ; squamous mucosa is ~10-15 % thickness
+2 pieces , glandular hyperplasia
+2 pieces ; glands autolyzed , stroma intact
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , <unk> & <unk> ; less than ~5 % interstitial fat , good specimens
+2 pieces , <unk> & <unk> ;
+2 pieces , <unk> & <unk> ; <unk> congestion
+2 pieces , minimal adherent fat , good specimens
+2 pieces , minimal interstitial fibrosis , <unk> ischemic changes
+6 pieces , well preserved , lymphoid aggregates are ~30 % of tissue , rep delineated
+4 pieces , no abnormalities
+2 pieces , mild congestion
+2 pieces , <unk> & <unk> ;
+2 pieces , fibroadipose tissue , no ductal elements noted
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , good clean specimens , no adherent fat
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , all muscularis , good specimens
+6 pieces , all muscularis , good specimens
+2 pieces , no abnormalities
+2 pieces , spermatogenesis is present
+2 pieces , minimal <unk> tissue
+2 pieces , minimal interstitial fibrosis
+2 pieces , gynecomastoid stromal and ductal ( rep delineated ) hyperplasia
+2 pieces , minimal interstitial fat
+1 piece ; adenohypophysis and neurohypophysis
+2 pieces , all cortex , well preserved , minimal fat
+2 pieces , good clean specimens , no adherent fat
+6 pieces , all muscularis , good specimens
+2 pieces , no abnormalities
+2 pieces , <unk> & <unk> ; <unk> <unk> <unk>
+2 pieces , <unk> & <unk> ; <unk> congestion
+2 pieces , <unk> & <unk> mm ; no extraneous adipose
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , well preserved , lymphoid aggregates are ~30 % of tissue , rep delineated
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , no abnormalities
+6 pieces , mucosa up to ~1mm , ~30-40 % thickness
+2 pieces , glandular hyperplasia
+2 pieces , clean specimens
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+6 pieces , up to <unk> ; <unk> <unk> is <unk> % thickness
+2 pieces , minimal <unk> tissue
+2 pieces , <unk> & <unk> ; patchy hemorrhagic <unk> <unk> , rep areas delineated
+2 pieces ; emphysema ; atelectasis
+6 pieces , mucosa well preserved , up to ~1mm , 15-20 % thickness
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , no adherent fat , good specimens
+2 pieces , no abnormalities
+6 pieces , minimal atherosis
+2 pieces , no abnormalities
+2 pieces , <unk> & <unk> ; clean specimens
+2 pieces , <unk> & <unk> ;
+2 pieces , moderate congestion
+2 pieces , no adherent fat , good clean specimens
+2 pieces , post menopausal <unk>
+6 pieces , all muscularis , good specimens
+6 pieces , up to <unk> ; squamous mucosa is ~10-15 % thickness
+6 pieces , glomeruli present , tubules <unk>
+6 pieces , mucosa well preserved , up to ~1mm , ~30-40 % thickness
+4 pieces , no abnormalities
+2 pieces , no adherent fat , good clean specimens
+6 pieces , minimal atherosis
+6 pieces , all muscularis , good specimens
+2 pieces , <unk> & <unk> ; glandular hyperplasia
+6 pieces , all muscularis , good specimens
+6 pieces , mucosa up to ~1mm , <unk> % thickness , moderately advanced autolysis
+2 pieces , spermatogenesis is present
+2 pieces , fibroadipose tissue , no ductal elements noted
+2 pieces , spermatogenesis is present
+6 pieces , squamous mucosa is ~0.2mm , ~10-15 % thickness
+2 pieces , ~10 % interstitial fat , rep delineated
+6 pieces , squamous mucosa is ~0.3mm , ~10-15 % thickness
+2 pieces , adherent nubbins of fat up to <unk> , delineated
+6 pieces , all muscularis , good specimens
+6 pieces , all muscularis , good specimens
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , good clean specimens , no adherent fat
+4 pieces , no abnormalities
+2 pieces ; congestion and hemorrhage
+2 pieces , no abnormalities
+6 pieces , mucosa well preserved , up to ~1mm , ~30-40 % thickness
+2 pieces , minimal fascia/vascular elements
+2 pieces , <unk> & <unk> ; all cortex , well preserved
+2 pieces , minimal interstitial fat
+2 pieces , minimal interstitial fibrosis
+2 pieces , all cortex , well preserved , minimal fat
+2 pieces , ~10 % fascia/vascular elements , rep delineated
+2 pieces , no abnormalities
+2 pieces , ~10 % interstitial fat , rep delineated
+6 pieces , all muscularis , good specimens
+2 pieces , no adherent fat , good clean specimens
+2 pieces , no abnormalities
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , minimal interstitial fat
+6 pieces , all muscularis , good specimens
+2 pieces , <unk> & <unk> ; no significant fibrosis
+2 pieces , good clean specimens , trace adherent fat , delineated
+6 pieces , all muscularis , good specimens
+2 pieces , <unk> & <unk> ;
+6 pieces , all muscularis , good specimens
+2 pieces , <unk> & <unk> ; 1 piece has 40 % fibrous stroma and other with central unfixed defects
+2 pieces , <unk> & <unk> ; minimal interstitial fat
+6 pieces , all muscularis , good specimens
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , no abnormalities
+2 pieces , moderate congestion
+2 pieces , glandular hyperplastic pattern
+6 pieces , mucosa up to ~1mm , ~30-40 % thickness
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces ; spermatogenesis present , some hyalinized tubules
+6 pieces , all muscularis , good specimens
+2 pieces , minimal interstitial fibrosis , <unk> ischemic changes
+2 pieces , no abnormalities
+2 pieces , gynecomastoid stromal and ductal ( rep delineated ) hyperplasia
+6 pieces , minimal atherosis , adherent serosa up to ~1mm , delineated
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , squamous mucosa is <unk> , ~20-25 % thickness
+2 pieces , <unk> & <unk> ; <unk> <unk> <unk>
+2 pieces ; glands autolyzed , stroma intact
+6 pieces , all muscularis , good specimens
+2 pieces , no abnormalities
+2 pieces , well preserved , islets well visualized , rep encircled . minimal fat ; good specimen
+2 pieces , gynecomastoid stromal and ductal ( rep delineated ) hyperplasia
+6 pieces , squamous mucosa is <unk> microns , <unk> % thickness
+1 piece ; adenohypophysis and neurohypophysis
+2 pieces , spermatogenesis is present
+2 pieces , minimal interstitial fibrosis , <unk> ischemic changes
+2 pieces , mild congestion
+2 pieces , good clean specimens , trace adherent fat , delineated
+2 pieces , <unk> & <unk> ; scattered eosinophilic foci in <unk> and <unk> tissue , <unk> <unk> <unk> <unk> <unk> <unk>
+2 pieces , minimal interstitial fibrosis , <unk> ischemic changes
+2 pieces , gynecomastoid stromal and ductal ( rep delineated ) hyperplasia
+2 pieces , <unk> & <unk> mm ; large holes in one piece
+6 pieces , mucosa up to ~1mm , ~30-40 % thickness
+6 pieces , squamous mucosa is ~0.2mm , ~10-15 % thickness
+2 pieces , spermatogenesis is present
+2 pieces , <unk> & <unk> ; <unk> congestion
+6 pieces , up to <unk> ; mucosa well preserved , up to ~30 % thickness
+2 pieces , minimal interstitial fat
+2 pieces , spermatogenesis is present
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+6 pieces , up to <unk> ; squamous mucosa is ~10-15 % thickness
+2 pieces , all cortex , well preserved , minimal fat
+2 pieces , minimal fascia/vascular elements
+2 pieces , glandular hyperplasia
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , all muscularis , good specimens
+6 pieces , squamous mucosa up to ~0.5mm , ~30 % thickness
+2 pieces , <unk> & <unk> ; no significant atherosis
+6 pieces , squamous mucosa is ~0.3mm , ~10-15 % thickness
+2 pieces , mild congestion , moderate autolysis
+6 pieces , all muscularis , good specimens
+2 pieces , ~10 % interstitial fat , rep delineated
+6 pieces , up to <unk> ; mucosa well preserved , up to ~30 % thickness
+2 pieces , fibroadipose tissue , no ductal elements noted
+6 pieces , squamous mucosa up to ~0.5mm , ~30 % thickness
+2 pieces , good clean specimens , trace adherent fat , delineated
+2 pieces , no abnormalities
+2 pieces , no abnormalities
+2 pieces , good clean specimens , trace adherent fat , delineated
+2 pieces , ~10 % interstitial fat , rep delineated
+6 pieces , squamous mucosa is <unk> , ~20-25 % thickness
+2 pieces , mild congestion , moderate autolysis
+2 pieces , no abnormalities
+2 pieces , no atherosis , clean specimens
+2 pieces , <unk> & <unk> ; mild congestion
+2 pieces , spermatogenesis is present
+2 pieces , no abnormalities
+6 pieces , well preserved , lymphoid aggregates are ~30 % of tissue
+2 pieces , no adherent fat , good specimens
+2 pieces , ~10 % interstitial fat , rep delineated
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , <unk> & <unk> ; <unk> <unk> and <unk> <unk>
+6 pieces , all muscularis , good specimens
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+6 pieces , all muscularis , good specimens
+6 pieces , all muscularis , good specimens
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+4 pieces , no abnormalities
+2 pieces , spermatogenesis is present
+2 pieces , both with central defects ( ? poor fixation ) , one piece is oversized ( ? poor fixation )
+2 pieces , <unk> & <unk> ; <unk> congestion
+6 pieces , up to <unk> ; all muscularis , good specimens
+2 pieces , no abnormalities
+2 pieces , all cortex , well preserved
+6 pieces , all muscularis , good specimens
+4 pieces , no abnormalities
+2 pieces , <unk> & <unk> ; moderate congestion
+2 pieces , spermatogenesis is present
+6 pieces , all muscularis , good specimens
+2 pieces , clean specimens , minimal adherent fat
+2 pieces , minimal fascia/vascular elements
+6 pieces , all muscularis , good specimens
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+2 pieces , no abnormalities
+6 pieces , up to <unk> ; all with mucosa , 2 have only muscularis
+2 pieces , <unk> & <unk> ;
+2 pieces , <unk> & <unk> ;
+2 pieces , ~10 % fascia/vascular elements , rep delineated
+2 pieces , minimal ischemic changes
+2 pieces , ~10 % interstitial fat , rep delineated
+6 pieces , all muscularis , good specimens
+2 pieces , no abnormalities
+2 pieces , <unk> & <unk> mm ; patchy emphysema
+1 piece ; adenohypophysis and neurohypophysis
+6 pieces , up to <unk> ; squamous mucosa is ~10-15 % thickness
+6 pieces , minimal atherosis
+6 pieces , all muscularis , good specimens
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , minimal interstitial fibrosis , <unk> ischemic changes
+2 pieces , fibroadipose tissue , no ductal elements noted
+2 pieces , moderate congestion
+6 pieces , up to <unk> ; mucosa well preserved , up to ~30 % thickness
+6 pieces , squamous mucosa is ~0.5mm , ~20-25 % thickness
+2 pieces , <unk> & <unk> ; patchy hemorrhagic pneumonitis
+6 pieces , up to <unk> ; all muscularis , good specimens
+1 piece ; adenohypophysis and neurohypophysis
+6 pieces , up to <unk> ; all muscularis , good specimens
+2 pieces , mild congestion , moderate autolysis
+2 pieces , fibroadipose tissue , no ductal elements noted
+2 pieces , spermatogenesis is present
+2 pieces , <unk> & <unk> ; moderate congestion
+2 pieces , all cortex , well preserved , minimal fat
+6 pieces , all muscularis , good specimens
+2 pieces , ~10 % fascia/vascular elements , rep delineated
+4 pieces , no abnormalities
+2 pieces , <unk> & <unk> ; <unk> congestion
+6 pieces , squamous mucosa is ~0.5mm , ~20-25 % thickness
+2 pieces , moderate congestion
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , minimal fascia/vascular elements
+2 pieces , mild congestion
+2 pieces ; patchy emphysema and fibrosis ; pulmonary edema & hemorrhage
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+2 pieces , <unk> & <unk> ; <unk> congestion
+6 pieces , all muscularis , good specimens
+1 piece ; adenohypophysis and neurohypophysis
+6 pieces , all muscularis , good specimens
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+4 pieces
+2 pieces , <unk> & <unk> ; discontinous rim of adherent fat up to ~0.5mm
+6 pieces , all muscularis , good specimens
+2 pieces , <unk> & <unk> ; <unk> <unk> and <unk> <unk>
+2 pieces , minimal ischemic changes
+2 pieces , minimal ischemic changes
+2 pieces , no abnormalities
+2 pieces , <unk> & <unk> ; spermatogenesis present
+2 pieces , no abnormalities
+4 pieces , no abnormalities
+2 pieces , all cortex , well preserved
+6 pieces ; well trimmed ; 5 % dermal fat
+6 pieces , squamous mucosa is ~0.5mm , ~20-25 % thickness
+2 pieces , <unk> & <unk> ; multiple <unk> cysts
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+2 pieces , minimal interstitial fibrosis , <unk> ischemic changes
+2 pieces , no adherent fat , good clean specimens
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , no abnormalities
+2 pieces , mild congestion
+2 pieces , ~10 % fascia/vascular elements , rep delineated
+6 pieces , all muscularis , good specimens
+2 pieces , <unk> & <unk> ; moderate congestion
+1 piece ; adenohypophysis and neurohypophysis
+2 pieces , <unk> & <unk> ; moderate congestion
+2 pieces , <unk> & <unk> ; scattered eosinophilic foci in <unk> and <unk> tissue , <unk> <unk> <unk> <unk> <unk> <unk> in <unk> <unk>
+2 pieces , <unk> & <unk> ; 1 with 20 % internal adipose
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , minimal atherosis
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , typical post menopausal atrophy
+2 pieces , minimal interstitial fibrosis , <unk> ischemic changes
+6 pieces , mucosa well preserved , up to ~1mm , ~30-40 % thickness
+6 pieces , all muscularis , good specimens
+2 pieces , mild congestion
+2 pieces , ~10 % interstitial fat , rep delineated
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces ; 1 piece has 30 % fibrous content
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , ~10 % fascia/vascular elements , rep delineated
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , minimal atherosis
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , <unk> & <unk> ; multiple <unk> cysts
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , no atherosis , clean specimens
+2 pieces , <unk> & <unk> ; scattered eosinophilic foci in <unk> and <unk> tissue , <unk> <unk> <unk> <unk> <unk> <unk>
+2 pieces , mild congestion
+2 pieces , <unk> & <unk> ;
+6 pieces , up to <unk> ;
+2 pieces , <unk> & <unk> ; discontinous rim of adherent fat up to ~0.5mm
+2 pieces , minimal interstitial fat
+2 pieces , mild congestion
+6 pieces , squamous mucosa is ~0.3mm , ~10-15 % thickness
+6 pieces , up to <unk> ;
+2 pieces , minimal fascia/vascular elements
+2 pieces , <unk> & <unk> ;
+2 pieces ; patchy fibrosis and congestion
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , clean specimens , minimal adherent fat
+2 pieces , <unk> & <unk> ; discontinous rim of adherent fat up to ~0.5mm
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+2 pieces , <unk> & <unk> ; no significant atherosis
+2 pieces , good clean specimens , no adherent fat
+2 pieces , spermatogenesis is present
+2 pieces , minimal interstitial fibrosis , <unk> ischemic changes
+2 pieces ; 1 piece has 40 % fibrous stroma
+6 pieces ; well trimmed ; 5 % dermal fat
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , up to <unk> ; mucosa well preserved , up to ~30 % thickness
+2 pieces , good clean specimens , trace adherent fat , delineated
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , minimal ischemic changes
+2 pieces , mild congestion
+2 pieces , <unk> & <unk> ; no significant steatosis
+6 pieces , squamous mucosa is <unk> , ~20-25 % thickness
+6 pieces ; well trimmed ; 5 % dermal fat
+2 pieces , fibroadipose tissue , no ductal elements noted
+2 pieces , no abnormalities
+4 pieces , no abnormalities
+6 pieces , up to <unk> ;
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+2 pieces , no abnormalities
+6 pieces , squamous mucosa is ~0.3mm , ~10-15 % thickness
+2 pieces , minimal fascia/vascular elements
+2 pieces , <unk> & <unk> ; <unk> congestion
+2 pieces ; myometrium only in this section
+2 pieces , no abnormalities
+2 pieces , <unk> & <unk> ; patchy hemorrhagic <unk> <unk> , rep areas delineated .
+6 pieces , mucosa is <unk> % thickness , <unk> , moderately advanced autolysis
+2 pieces , <unk> & <unk> ;
+6 pieces ; well dissected muscularis
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+2 pieces ; myometrium only in this section
+2 pieces , gynecomastoid stromal and ductal ( rep delineated ) hyperplasia
+2 pieces , myometrium only
+2 pieces , minimal interstitial fibrosis , <unk> ischemic changes
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+4 pieces , no abnormalities
+2 pieces , minimal fascia/vascular elements
+2 pieces , no atherosis , clean specimens
+6 pieces ; mucosa autolyzed , muscle intact
+6 pieces , well preserved mucosa up to ~1mm , <unk> % thickness
+2 pieces , no adherent fat , good specimens
+2 pieces ; glands autolyzed , stroma intact
+6 pieces , mucosa up to ~1mm , ~30-40 % thickness
+2 pieces , <unk> & <unk> ; no significant fibrosis
+2 pieces , <unk> & <unk> ; patchy fibrosis , <unk> , <unk> , <unk>
+2 pieces , no abnormalities
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , mucosa well preserved , up to ~1mm , 15-20 % thickness
+2 pieces , mild congestion
+2 pieces , no abnormalities
+2 pieces , <unk> & <unk> ; moderate congestion
+6 pieces , all muscularis , good specimens
+2 pieces , <unk> & <unk> ;
+2 pieces , good clean specimens , no adherent fat
+2 pieces , <unk> & <unk> ; moderate congestion
+6 pieces , up to <unk> ; squamous mucosa is ~10-15 % thickness
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces ; 1 piece is 40 % external fat
+1 piece ; adenohypophysis and neurohypophysis
+2 pieces , one is predominantly fatty , second is ~30 % fibrous tissue , few ductal/lobular elements
+2 pieces , no abnormalities
+4 pieces , no abnormalities
+2 pieces , no adherent fat , good clean specimens
+2 pieces , <unk> & <unk> ; patchy emphysema
+2 pieces ; emphysema ; focal vascular congestion & hemorrhage
+2 pieces , no atherosis , clean specimens
+2 pieces , minimal ischemic changes
+1 piece ; adenohypophysis and neurohypophysis
+2 pieces , minimal ischemic changes
+2 pieces , no adherent fat ; good specimens
+2 pieces , <unk> & <unk> ; good clean specimens
+2 pieces , <unk> & <unk> ; mild congestion
+6 pieces , mucosa up to ~1mm , ~30-40 % thickness
+6 pieces , mucosa up to ~1mm , <unk> % thickness
+6 pieces , squamous mucosa is <unk> microns , <unk> % thickness
+6 pieces , well preserved , lymphoid aggregates are ~30 % of tissue , rep delineated
+6 pieces , squamous mucosa is <unk> , ~20-25 % thickness
+2 pieces , <unk> & <unk> ; patchy hemorrhagic <unk> <unk> , rep areas delineated
+2 pieces , <unk> & <unk> ; scattered eosinophilic foci in <unk> and <unk> tissue , <unk> <unk> <unk> <unk> <unk> <unk> in <unk> <unk>
+2 pieces , <unk> & <unk> ; less than ~5 % interstitial fat , good specimens
+2 pieces , no abnormalities
+2 pieces , minimal ischemic changes
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , minimal interstitial fibrosis
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+6 pieces , mucosa up to ~1mm , ~30-40 % thickness
+2 pieces , moderate congestion
+6 pieces , all muscularis , good specimens
+2 pieces , gynecomastoid stromal and ductal ( rep delineated ) hyperplasia
+6 pieces , all muscularis , good specimens
+6 pieces , all muscularis , good specimens
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , glandular hyperplasia
+6 pieces , all muscularis , good specimens
+6 pieces , all muscularis , good specimens
+2 pieces , mild congestion , moderate autolysis
+2 pieces , well preserved , islets well visualized , rep encircled . minimal fat ; good specimen
+6 pieces , all muscularis , good specimens
+6 pieces , squamous mucosa is ~0.5mm , ~20-25 % thickness
+2 pieces , spermatogenesis is present
+2 pieces , gynecomastoid stromal and ductal ( rep delineated ) hyperplasia
+4 pieces , no abnormalities
+2 pieces , <unk> & <unk> mm ; cortex and medulla ; no obvious ova
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+2 pieces , ~10 % fascia/vascular elements , rep delineated
+2 pieces , <unk> & <unk> ; patchy hemorrhagic <unk> <unk> , rep areas delineated
+6 pieces , squamous mucosa is ~0.5mm , ~20-25 % thickness
+6 pieces , minimal atherosis
+2 pieces , <unk> & <unk> mm ; no glands
+2 pieces , no abnormalities
+2 pieces , <unk> & <unk> ; spermatogenesis
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , fibroadipose tissue , no ductal elements noted
+6 pieces , squamous mucosa is ~0.5mm , ~20-25 % thickness
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , <unk> & <unk> ;
+2 pieces , no abnormalities
+6 pieces , up to <unk> ; adherent <unk> vasorum in 3 pieces
+6 pieces , squamous mucosa is ~0.5mm , ~20-25 % thickness
+2 pieces , no abnormalities
+2 pieces , spermatogenesis is present
+2 pieces , no adherent fat , good clean specimens
+6 pieces , mucosa well preserved , up to ~1mm , 15-20 % thickness
+2 pieces , fibroadipose tissue , no ductal elements noted
+2 pieces , minimal fascia/vascular elements
+2 pieces , <unk> & <unk> ; glandular hyperplasia
+2 pieces , <unk> & <unk> ; scattered eosinophilic foci in <unk> and <unk> tissue , <unk> <unk> <unk> <unk> <unk> <unk>
+6 pieces , squamous epithelium is ~50 microns , minimal adherent dermal fat
+6 pieces , squamous mucosa is ~0.5mm , ~20-25 % thickness
+2 pieces , minimal ischemic changes
+2 pieces , ~10 % interstitial fat , rep delineated
+2 pieces , <unk> & <unk> ;
+6 pieces , minimal dermal fat ; squamous epithelium is ~50 microns
+2 pieces , no abnormalities
+6 pieces ; well dissected
+6 pieces , up to <unk> ; mucosa well preserved , up to ~30 % thickness
+6 pieces , squamous mucosa is ~0.2mm , ~10-15 % thickness
+6 pieces , up to <unk> ; squamous epithelium is ~1-2 % thickness
+4 pieces , no abnormalities
+2 pieces , no abnormalities
