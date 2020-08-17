@@ -69,8 +69,6 @@ class autoencoder(nn.Module):
 model = autoencoder().cuda()
 model = torch.nn.DataParallel(model).cuda()
 
-#model.load_state_dict(torch.load("checkpoint/backup/checkpoint_autoencoder_21.pth"))
-
 criterion = nn.MSELoss()
 criterion_embed = nn.MSELoss()
 
@@ -95,19 +93,6 @@ for epoch in range(num_epochs):
         neg_img_embed, neg_img_rec = model(neg_img)
 
         rec_loss = criterion(img_rec, img)
-        #zeros_embed = torch.zeros(img_embed.size()).cuda()
-        #pos_loss = criterion_embed(img_embed - pos_img_embed, zeros_embed)
-        #neg_loss = criterion_embed(img_embed - neg_img_embed, zeros_embed)
-        
-        '''
-        pos_loss_clamp = torch.clamp((torch.mean((img_embed - pos_img_embed) * (img_embed - pos_img_embed), dim=1) - 0.05), min=0.0)
-        pos_loss = torch.mean(pos_loss_clamp)
-
-        neg_loss_clamp = torch.clamp(0.05 - (torch.mean((img_embed - neg_img_embed) * (img_embed - neg_img_embed), dim=1) ), min=0.0)
-        neg_loss = torch.mean(neg_loss_clamp)
-
-        loss = rec_loss + mu*(pos_loss + neg_loss)
-        '''
         
         pos_loss = torch.mean((img_embed - pos_img_embed) * (img_embed - pos_img_embed), dim=1)
         neg_loss = torch.mean((img_embed - neg_img_embed) * (img_embed - neg_img_embed), dim=1) 
@@ -134,7 +119,4 @@ for epoch in range(num_epochs):
     
     torch.save(model.state_dict(), f'checkpoint/checkpoint_autoencoder_{epoch}.pth')
 
-    #if epoch % 10 == 0:
-    #    pic = to_img(output.cpu().data)
-    #    save_image(pic, './dc_img/image_{}.png'.format(epoch))
 writer.close()
