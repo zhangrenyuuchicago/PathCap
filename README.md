@@ -3,7 +3,7 @@
 This is the repo for our paper
 
 > [**Evaluating and interpreting caption prediction for histopathology images**](http://proceedings.mlr.press/v126/zhang20b.html) \
-> [Renyu Zhang](https://zhangrenyuuchicago.github.io/), [Aly A. Khan](https://people.cs.uchicago.edu/~aakhan/), [Robert L. Grossman](https://rgrossman.com/about.html) \
+> [Renyu Zhang](https://zhangrenyuuchicago.github.io/), [Robert L. Grossman](https://rgrossman.com/about.html), [Aly A. Khan](https://people.cs.uchicago.edu/~aakhan/) \
 > Proceedings of the 5th Machine Learning for Healthcare Conference, PMLR 126:418-435, 2020.
 
 ## Content
